@@ -29,6 +29,15 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 hobbies: ["Football", "Travel", "Badminton"]
 ``` 
 
+## Progressing...
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
+
 ## Find me on LinkedIn:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) =>
 [[Link]](https://linkedin.com/in/voidashfak/)
@@ -100,9 +109,5 @@ hobbies: ["Football", "Travel", "Badminton"]
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+
 
