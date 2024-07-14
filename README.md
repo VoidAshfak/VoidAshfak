@@ -1,6 +1,7 @@
 <img src="Software Engineer.png"
      alt="Cover Image" 
 />
+
 #### I have recently graduated in CSE from Rajshahi University of Engineering & Technology (RUET). I'm glad your'e here. Be my guest...
 
 ```ymal
@@ -9,7 +10,7 @@ located_in: "Dhaka"
 current_job: "Full Stack Developer"
 education:
   [
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Computer Science & Engineering",
   ]
 recent_company: "Rigg Technologis"
 
@@ -19,15 +20,14 @@ fields_of_interests:
     "DevOps",
     "SQA",
     "Mobile App Development",
-    "UI/UX"
   ]
 
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: [" Flutter, Docker, Kubernetes, and React Native"]
 
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 
 hobbies: ["Football", "Travel", "Badminton"]
-``` 
+```
 
 ## Progressing...
 
@@ -37,14 +37,15 @@ hobbies: ["Football", "Travel", "Badminton"]
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-
 ## Find me on LinkedIn:
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) =>
 [[Link]](https://linkedin.com/in/voidashfak/)
 
 # Technologies I'm In:
 
 ### Programming Languages
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60"/>
@@ -55,6 +56,7 @@ hobbies: ["Football", "Travel", "Badminton"]
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="c" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="c++" width="60"/>
@@ -65,9 +67,9 @@ hobbies: ["Football", "Travel", "Badminton"]
 </p>
 
 ### Backend
+
 <p>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="c" width="60"/> -->
-
 
 <img src="express.png" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="c++" width="60"/>
@@ -76,6 +78,7 @@ hobbies: ["Football", "Travel", "Badminton"]
 </p>
 
 ### Database
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="c++" width="60"/>
@@ -84,13 +87,13 @@ hobbies: ["Football", "Travel", "Badminton"]
 </p>
 
 ### Others
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="c++" width="60"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" alt="c++" width="60"/>
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="c++" width="60"/>
@@ -103,11 +106,3 @@ hobbies: ["Football", "Travel", "Badminton"]
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VoidAshfak&repo=techTube&theme=blueberry" />
 </a>
-
-
-
-
-
-
-
-
