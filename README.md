@@ -7,24 +7,24 @@
 ```ymal
 name: "Asif"
 located_in: "Dhaka"
-current_job: "Full Stack Developer"
+current_job: "Database Administrator"
 education:
   [
     "Bachelor's in Computer Science & Engineering",
   ]
-recent_company: "Rigg Technologis"
+recent_company: ["Rigg Technologis", "Shadhin Music"]
 
 fields_of_interests:
   [
     "Web Development",
     "DevOps",
-    "SQA",
+    "Database",
     "Mobile App Development",
   ]
 
-currently_learning: [" Flutter, Docker, Kubernetes, and React Native"]
+currently_learning: ["AWS", "Docker", "Kubernetes", "React Native"]
 
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 
 hobbies: ["Football", "Travel", "Badminton"]
 ```
@@ -98,11 +98,4 @@ hobbies: ["Football", "Travel", "Badminton"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="c++" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="c++" width="60"/>
 
-# Stats:
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidAshfak&theme=blueberry" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VoidAshfak&repo=techTube&theme=blueberry" />
-</a>
